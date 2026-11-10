@@ -1,3 +1,18 @@
+
+<div align="center">
+  <img src="Neon AI Developer GitHub Banner.png" width="100%" alt="Vinay Reddy Bolla - Software Developer and AI/ML Engineer" />
+</div>
+
+<h2 align="center">Building Technology That Solves Real Problems 🚀</h2>
+
+<p align="center">
+  Software Developer | AI/ML Engineer | Founder
+</p>
+
+<p align="center">
+  Turning ideas into impactful real-world solutions.
+</p>
+
 # Hey, I'm Vinay Reddy Bolla 👋
 
  Software Developer | AI/ML Engineer | Founder of NearbyOFF
